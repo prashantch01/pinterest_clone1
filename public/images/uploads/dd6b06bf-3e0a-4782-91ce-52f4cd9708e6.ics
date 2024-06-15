@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendly//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20231219T120810Z
+UID:calendly-871295769
+DTSTART:20231231T050000Z
+DTEND:20231231T060000Z
+CLASS:PRIVATE
+DESCRIPTION:Event Name: Growth Hacking Internships\nDate & Time: 10:30am - 
+ 11:30am (India Standard Time) on Sunday\, December 31\, 2023\n\nContact Nu
+ mber: +91 79740 00944\n\nPlease share anything that will help prepare for 
+ our meeting.: Nothing\n\nNeed to make changes to this event?\nCancel: http
+ s://calendly.com/cancellations/4fe0a484-3c9f-4cd2-8173-c0c3d6726254\nResch
+ edule: https://calendly.com/reschedulings/4fe0a484-3c9f-4cd2-8173-c0c3d672
+ 6254\n
+LOCATION:Capt. C. S. Naidu Arcade\, 405-406\, near Greater Kailash Road\, O
+ pposite Grotto\, New Palasia\, Indore\, Madhya Pradesh 452001
+SUMMARY:Growth Hacking Internships with HR Walkover
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
